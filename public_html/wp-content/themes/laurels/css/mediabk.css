@@ -1,0 +1,487 @@
+@media (max-width:1366px) {
+footer{background:url("http://traxanhkhongdo.com.vn/wp-content/uploads/2016/11/footer-1366.png");
+height:390px;}
+.padding-footer{padding-top:21%;}
+.logo-footer{width:40%;}
+
+.txkd, .drthanh, .number1, .number1-chanh {width:90%;}
+.egcg1, .loi-ich-sk, .egcg-ungthu {width:80%;}
+.scrollup{right:20px;}
+.bottom-footer ul { float:left;}
+.main-menu-ul > ul > li > a {font-size:15px;max-width:130px;}
+.header_bottom_sanpham {background:url("http://traxanhkhongdo.com.vn/wp-content/uploads/2016/11/front-page-header-sanpham-1366.png") no-repeat center center;
+height:679px;}
+.scroll{ height:1000px;}
+}
+@media (max-width:1200px) 
+{
+.webpage-container{
+	width:100%;
+}
+.column-footer{
+	padding-left: 0;	
+}
+iframe {
+    width: 100%;
+}
+}
+@media screen and (min-width:990px) and (max-width:1055px){
+.row_img > p{
+	width:100%;
+	left: 0;	
+}
+.our-work-content{
+	padding: 0;	
+}
+}
+
+@media (max-width:1045px) {
+.inp-lft {
+	margin-left: 6px;
+}
+}
+
+@media (max-width:480px) {
+.popup_bg, .popup { display: none;}
+.laurels-previous-link,
+.laurels-next-link{
+       text-align: center;
+       width: 100%;
+       margin-bottom: 10px;
+}
+.webpage-container{
+	width:100%;
+	
+	}
+.section_row_1 p 	{
+	margin-left:10px;
+	margin-right:10px;
+}
+
+
+.bottum_hr_midd {
+	margin-left:0px;
+}
+.bottum_hr_last{
+	float:none;
+	margin-bottom:40px;
+}
+
+}
+@media screen and (min-width:480px) and (max-width:767px){
+.popup_bg, .popup { display: none;}
+.main-sidebar {
+    clear: both;
+}
+
+}
+
+@media screen and (min-width:320px) and (max-width:500px){
+.popup_bg, .popup { display: none;}
+.caption-text{
+	display: none;
+}
+.bottom-footer{
+	text-align: center;
+}
+.bottom-footer ul{
+	float: none;
+	display: inline-block;
+        padding-left: 0;
+}
+.bottum_hr{
+	width: 100%;
+}
+.main-sidebar {
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+}
+}
+
+@media screen and (min-width:767px) and (max-width:1024px){
+.logo_div{
+	padding-left:0px;	
+}
+}
+@media screen and (min-width:769px) and (max-width:850px){
+
+    .row_img > p{top: 100px;}
+.img_inline{
+    margin-top: 25px;
+}
+.caption-text p,
+.caption-text h2{
+	font-size:20px;
+	margin-bottom: 0;
+}
+.contact-form{
+	padding-right:30px;	
+}
+.contact-address{
+	padding-left:30px;	
+}
+
+}
+@media (max-width:768px) {
+.popup_bg, .popup { display: none;}
+.logo_div{padding-left: 0;} 
+.search-box{margin-left: 0;}
+.list-inline > li{padding-left: 0;}
+.main-menu-ul ul li ul ul{
+	margin: 0 0 0 15px;	
+}
+.img_inline{
+    margin-top: 25px;
+}
+.logo-display{
+	text-align:center; 	
+}
+.logo-txkd {padding-left:2%;}
+.logo{
+	display:inline-block;	
+}
+.navbar-toggle {
+    float: left;
+}
+.main-menu-ul ul {
+    float: none;
+	margin: 15px 0;
+}
+.main-menu-ul ul > li > a {
+	margin-bottom:5px;
+}
+.main-menu-ul ul li{
+	width:100%;
+	margin-left:0;	
+	z-index:9999;
+	clear:both;
+}
+.laurels_dropdown_menu{
+	display:list-item;
+	float:none;
+	box-shadow:none;
+	position:relative;
+	border:0 none;
+	margin-left:25px;
+	text-align:left;	
+}
+.main-menu-ul ul li ul{
+	text-align:left;
+	left: 0;
+    margin: 0 0 0 15px;
+    position: relative;
+    text-align: left;
+	visibility: visible;
+	opacity: 1;
+}
+.main-menu-ul ul li:hover ul li ul{
+	opacity: 1;
+    visibility: visible;
+}
+.main-menu-ul ul li ul ul{
+	left: 0;
+	visibility:visible;	
+	 position: relative;
+	 opacity: 1;
+}
+.foot_txt{
+	text-align:center;	
+}
+.bottum_hr_last{
+	margin-bottom:40px;
+}
+
+.left.carousel-control.slider_button > img {
+    width: 100%;
+}
+.right.carousel-control.slider_button > img {
+    width: 100%;
+}
+.carousel-control.left {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0px, rgba(0, 0, 0, 0) 100%);
+    background-repeat: repeat-x;
+    width: 30px;
+}
+.carousel-control.right {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0px 100%);
+    background-repeat: repeat-x;
+    width: 30px;
+}
+.customNavigation {    
+    right: 10px;
+    top: -15%;
+}
+.header_top{
+	text-align:center;	
+}
+
+.page-dropdown{
+	left:0;
+}
+.portfolio-dropdown{
+	left:0;
+}
+.blog_dorp{
+	left:0;	
+}
+.search-box{
+	display:inline-block;
+	margin:15px 0 0 30px;
+}
+.padding-left{
+	margin-left:0;	
+}
+.padding-right{
+	margin-right:0;	
+}
+.blog-right{
+	margin-top:25px;	
+}
+.left-sidebar {
+	margin-bottom:25px;
+}
+.contact-address {
+    padding-left: 0;
+    margin-top:20px;
+}
+.contact-form{
+	padding-right:5px;
+	border:0;		
+}
+.navbar-collapse.in {
+    overflow-y: visible;
+	z-index:999;
+}
+.blog-page {
+    padding-left: 0;
+    padding-right: 0;
+}
+.blog-left-page {
+	padding:0;	
+}
+.bottum_hr{
+	margin-bottom: 25px;	
+}
+.header_bottom, .header_bottom_sanpham, .header_bottom_tintuc, .header_bottom_xoacungamnhac {
+ background: url("http://traxanhkhongdo.com.vn/wp-content/uploads/2016/11/front-page-header-768.jpg") no-repeat center center;
+ height:700px;}
+ .sumenh-1-1 { width:100%;}
+ .sumenh-1-1 p,.sumenh-2 p,.nguyenvong p { font-size:17px;}
+ .sumenh-1-2 a img { display:none;}
+ .sumenh-2 { background:none;}
+ .sumenh-2-1 { width:100%; padding:0 3%;}
+ .sumenh-2 h1 { text-align:center;}
+ .giatri-cotloi h1,.giatri-cotloi ul { padding-left:5%;}
+ .sanpham-txkd img,.sanpham-drthanh img,.sanpham-number1 img { width:100%; padding-left:0;}
+ .sanpham-txkd-1,.sanpham-drthanh-1,.sanpham-number1-1 { width:100%; font-size:17px; padding-left:3%;}
+ .thanhtuu ul { font-size:20px;}
+ .thanhtuu-1 { padding-left:20%;}
+ .video-egcg { margin-top:9%;}
+.dieu-khoan { float:left; width:768px; height:768px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:384px; padding-top:10%; padding-left:12%; padding-right:12%; }
+ .dieu-khoan p{ height:366px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em;}
+    .dieu-khoan h1 {font-size:16px; font-weight:bold; width:95%;color:#5bba46;}
+
+}
+@media (max-width:980px) {
+	.section_row_1 p {
+		margin-left:0;
+		margin-right:0;
+	}
+.single-portfolio-content{
+	margin-top:20px;	
+}
+.box_left{
+	margin-right:0;
+}
+.box_right{
+	margin-left:0;	
+}
+.box_middle{
+	margin-left:0;
+	margin-right:0;
+}
+.our-work-content{
+	margin-bottom:50px;
+}
+}
+@media (max-width:800px) {
+.popup_bg, .popup { display: none;}
+    .section_row_4 .title > h3{
+	text-align: left;
+        width: 70%;
+        display: inline-block;
+}
+.customNavigation{top: 0;}
+.title > h3{
+    background-image: none;
+}
+.webpage-container{
+width:100%;
+
+}
+.bottum_hr_midd {
+margin-left:0px;
+}
+.bottum_hr_last{
+	float:none;
+}
+.bottom-footer{
+	text-align: center;
+}
+.bottom-footer ul{
+	float: none;
+	display: inline-block;
+}
+.caption-text p,
+.caption-text h2{
+	font-size:20px;
+	margin-bottom: 0;
+}
+.caption-text{
+	top:10%;
+	right:15%;
+}
+.dieu-khoan { float:left; width:750px; height:750px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:375px; padding-top:13%; padding-left:12%; padding-right:12%; margin-left:0;}
+ .dieu-khoan p{ height:400px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em; font-size:21px;}
+    .dieu-khoan h1 {font-size:28px; font-weight:bold; width:95%;color:#5bba46;}
+	.main-menu-ul > ul > li > a { font-size:15px; max-width:130px;}
+	.main-menu-ul ul{ float:left;}
+#leafContainer{ display:none;}
+}
+@media (max-width:510px) {
+.popup_bg, .popup { display: none;}
+.service-media-left span {
+float:right;
+}
+}
+@media (max-width:432px) {
+.blog-info {
+	float: none;
+}
+.blog-info h3 {
+    padding-left: 60px;
+}
+.blog-breadcumb {
+   padding-left:60px;
+}
+/***Dolphin add****/
+.logo-txkd { float:left; z-index:99999;}
+.navigation-deafault { float:right; z-index:99999;}
+.sontung2 { float:left; padding-top:3%;}
+.sontung2 h1{ font-size:20px; text-align:center;}
+.mua-he-khong-do-1 h1{ font-size:22px;}
+.mua-he-khong-do-1 { width:100% !important; padding-bottom:3%;}
+.header_bottom, .header_bottom_sanpham, .header_bottom_tintuc, .header_bottom_xoacungamnhac {
+ background: url("http://traxanhkhongdo.com.vn/wp-content/uploads/2016/11/front-page-header-414.jpg") no-repeat center center;
+ height:330px;}
+ .header_menu{ padding:0;}
+ .video-egcg{ padding-top:0;}
+ .logo-txkd{ width:20%;}
+ .giainhiet { text-align:center;}
+ .giainhiet img { width:40%;}
+ .egcg-traxanh { width:20%;}
+ .social,.logo-footer { display:none;}
+ .main-menu-ul ul { float:left; background:#fafcef;}
+ .giainhiet {  padding-left:12%;}
+.egcg1, .egcg-ungthu{ padding-top:0; width:30%; float:left;}
+ .loi-ich-sk { width:40%; float:left;}
+ .logo-sanpham { padding-top:20%;}
+ footer{ height:initial; padding-top:15%;}
+ .popup_bg, .popup { display: none;}
+ .blog-media a, .blog-media a img, .mua-he-khong-do-2 a, .mua-he-khong-do-2 a img, .mua-he-khong-do-3, .mua-he-khong-do-3 a, .mua-he-khong-do-3 a img, .mua-he-khong-do-4, .mua-he-khong-do-4 a,.mua-he-khong-do-4 a img { width:100% !important; height:auto !important; padding-bottom:2px;}
+ .padding-footer,.bottom-footer { padding-top:0;}
+ .one-sanpham a img,.lienquan-sanpham a img,.lienquan-sanpham,.lienquan-sanpham a img{ height:auto; width:100%;}
+ .col-md-4{ padding:0;}
+ .blog-content h2 { font-size:20px;}
+ .sontung1{ width:100%;}
+ .gala-khongdo iframe { width:100%; height:250px;;}
+ .sumenh-1-1 { width:100%; padding-right:0;}
+ .sumenh-2-1 { width:95%; padding:0; padding-right:5%;}
+ .sumenh-2 h1 { font-size:20px; text-align:center;}
+ .sumenh-2 { background:none; height:auto}
+ .giatri-cotloi h1,.nguyenvong h1 { padding-left:0; font-size:15px; text-align:center;}
+ .thanhtuu h1 { font-size:20px;}
+ .giatri-cotloi li { font-size:14px;}
+ .giatri-cotloi ul { padding-left:9%;}
+ .thanhtuu ul { padding-right:2%;}
+ .thanhtuu-1{ padding-left:0;}
+ .sanpham-h1,.sumenh-1-1 h1 { font-size:20px;}
+ .sanpham-txkd-1,.sanpham-drthanh-1,.sanpham-number1-1 { width:95%;}
+ .sanpham-number1-1 h1,.sanpham-drthanh-1 h1,.sanpham-txkd-1 h1 { font-size:18px;}
+ .sumenh-1-2 { display:none}
+ .container {padding:0;}
+ .sanpham-txkd img,.sanpham-number1 img { padding-left:0;}
+ .blog-content p { text-align:justify; line-height:1.5em;}
+ .qc1 {text-align:center;}
+ .qc1 img { width:100%;}
+ .col-sm-12, .col-md-12, .col-md-9, .col-sm-8 { padding:0;}
+ .blog-info > a { font-weight:normal; font-size:15px;}
+ .sidebar-widgets { padding:0 3%;}
+ .blog-info > h2 { font-size:20px;}
+ .giatri-cotloi { width:95%;}
+ .dieu-khoan { float:left; width:350px; height:350px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:175px; padding-top:10%; padding-left:12%; padding-right:12%; margin-left:1%;}
+ .dieu-khoan p{ height:175px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em;}
+    .dieu-khoan h1 {font-size:16px; font-weight:bold; width:95%;color:#5bba46;}
+	#leafContainer{ display:none;}
+.bottom-footer-add { display:inline;text-align:center;}
+.bottom-footer-add p {color:#000;font-weight:bold;}
+.lien-he,.ve-thp,.dieu-khoan-dieu-le { display:none;}
+}
+@media (max-width:414px) {
+/***Dolphin add****/
+.dieu-khoan { float:left; width:412px; height:412px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:206px; padding-top:10%; padding-left:12%; padding-right:12%; }
+ .dieu-khoan p{ height:206px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em;font-size:15px;}
+    .dieu-khoan h1 {font-size:16px; font-weight:bold; width:95%;color:#5bba46;}
+.header_bottom, .header_bottom_sanpham, .header_bottom_tintuc, .header_bottom_xoacungamnhac {
+ background: url("http://traxanhkhongdo.com.vn/wp-content/uploads/2016/11/front-page-header-414.jpg") no-repeat center center;
+ height:430px;}
+
+}
+@media (max-width:390px) {
+.partners-next.btn_lr {
+	right: -20px;
+	padding:2px 5px;
+	top:30px;
+}
+.title > h3{
+	background: none;	
+}
+.section_row_4 .title > h3{
+	text-align: left;
+}
+.section_row_4 .title > h3 > span{
+	padding: 0;
+	background: none;	
+}
+.partners-prev.btn_lr {
+	left: -22px;
+	padding:2px 5px;
+	top:30px;
+}
+.our-work-content{
+	padding: 0;	
+}
+ 
+}
+@media (max-width:375px) {
+/***Dolphin add****/
+.dieu-khoan { float:left; width:375px; height:375px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:338px; padding-top:10%; padding-left:14%; padding-right:14%; }
+ .dieu-khoan p{ height:205px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em;font-size:15px;}
+    .dieu-khoan h1 {font-size:16px; font-weight:bold; width:95%;color:#5bba46;}
+}
+@media (max-width:360px) {
+/***Dolphin add****/
+.sontung2 h1{ font-size:18px; text-align:center;}
+.blog-info > h2 { font-size:17px;}
+.dieu-khoan { float:left; width:360px; height:360px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:180px; padding-top:10%; padding-left:12%; padding-right:12%; }
+ .dieu-khoan p{ height:180px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em; font-size:15px;}
+    .dieu-khoan h1 {font-size:16px; font-weight:bold; width:95%;color:#5bba46;}
+}
+@media (max-width:320px) {
+/***Dolphin add****/
+.sontung2 h1{ font-size:17px;}
+.dieu-khoan { float:left; width:320px; height:320px; background:#FFFFFF; border:5px solid #CCCCCC; border-radius:155px; padding-top:10%; padding-left:12%; padding-right:12%; margin-left:1%;}
+ .dieu-khoan p{ height:155px; overflow:scroll;color:#5bba46; text-align:justify; line-height:1.5em;font-size:15px;}
+    .dieu-khoan h1 {font-size:16px; font-weight:bold; width:95%;color:#5bba46;}
+}

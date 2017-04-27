@@ -1,0 +1,581 @@
+[Sat, 28 Jan 2017 17:17:16 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1485325229,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'public_html',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'http://traxanhkhongdo.com.vn/',
+      'tmbUrl' => 'http://traxanhkhongdo.com.vn/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/zip',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/zip',
+        ),
+        'createext' => 
+        array (
+          'application/zip' => 'zip',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'public_html',
+    'url' => 'http://traxanhkhongdo.com.vn/',
+    'tmbUrl' => 'http://traxanhkhongdo.com.vn/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1485325229,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'public_html',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'http://traxanhkhongdo.com.vn/',
+        'tmbUrl' => 'http://traxanhkhongdo.com.vn/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1479115190,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_aW1hZ2Vz',
+      'name' => 'images',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479115189,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2853',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1479115189,
+      'read' => 1,
+      'write' => 1,
+      'size' => '370',
+      'hash' => 'l1_dGVzdC5waHA',
+      'name' => 'test.php',
+      'phash' => 'l1_Lw',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1480645398,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1103680',
+      'hash' => 'l1_MjAxNjEyMDIua2hvbmdkb19ibHVlLnNxbA',
+      'name' => '20161202.khongdo_blue.sql',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485152470,
+      'read' => 1,
+      'write' => 0,
+      'size' => 0,
+      'hash' => 'l1_Yms',
+      'name' => 'bk',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479115189,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1478757295,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3178',
+      'hash' => 'l1_d3AtY29uZmlnYmsucGhw',
+      'name' => 'wp-configbk.php',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29896',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485623836,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16250',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485623834,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1485319043,
+      'read' => 1,
+      'write' => 1,
+      'size' => '206',
+      'hash' => 'l1_cm9ib3RzLnR4dA',
+      'name' => 'robots.txt',
+      'phash' => 'l1_Lw',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1479115190,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c2NyaXB0cw',
+      'name' => 'scripts',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '33939',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1484733443,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7433',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479115375,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3047',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1479115201,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484733444,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1479117153,
+      'read' => 1,
+      'write' => 1,
+      'size' => '235',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1484733444,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479115189,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '200M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
